@@ -5,10 +5,11 @@
 }
 
 body {
+	overflow-x: hidden;
 	line-height: 1.5;
 	font-family: 'Inter', sans-serif;
-  font-size: 18px;
-  background-image: url(../images/back.jpg);
+       font-size: 18px;
+       background-image: url(../images/back.jpg);
 }
 
 h2 {
