@@ -1,12 +1,12 @@
 * {
-	overflow-x: hidden;
+	
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
 }
 
 body {
-	overflow-x: hidden;
+	
 	line-height: 1.5;
 	font-family: 'Inter', sans-serif;
        font-size: 18px;
@@ -23,6 +23,7 @@ img {
 }
 
 .page {
+	overflow: hidden;
 	width: 100%;
 	max-width: 1440px;
 	margin: auto;
